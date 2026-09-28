@@ -32,3 +32,11 @@ docker compose up --build
 > 只能对获得明确授权的模型和环境进行测试。本工程仅限个人非商业学习交流；企业使用和所有商业行为须取得上海如静知华信息科技有限公司书面授权，详见 [LICENSE](LICENSE)。
 
 AI 安全评估、模型红队和私有化部署请联系[知华科技](https://www.zhuatech.cn/)。
+
+## 微信咨询
+
+商业授权、私有化部署或深度定制开发，可扫描下方二维码添加微信 `zhuatech` 或 `zhuatech2` 咨询。
+
+| 微信 zhuatech | 微信 zhuatech2 |
+| --- | --- |
+| ![知华科技微信咨询 zhuatech](docs/images/zhuatech-wechat-consulting.png) | ![知华科技微信咨询 zhuatech2](docs/images/zhuatech-wechat-consulting-2.png) |
