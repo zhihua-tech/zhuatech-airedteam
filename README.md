@@ -1,5 +1,7 @@
 # ZhuaTech AI Red Team｜企业 AI 红队安全平台
 
+[简体中文](README.md) | [English](README.en.md)
+
 由 **[知华科技（上海如静知华信息科技有限公司）](https://www.zhuatech.cn/)** 发布，用于在 AI 应用上线前执行可重复、可审计的安全测试。
 
 ## 已实现的核心能力
