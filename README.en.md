@@ -1,5 +1,7 @@
 [简体中文](README.md) | **English**
 
+2026-10-23 update: **Red-team coverage matrix**. An authenticated, deterministic computation with a usable workbench, bounded input validation and regression tests. No external model calls or business-data writes. [Usage, API and limitations](docs/AI_PRACTICAL_UPGRADE_20261023.md).
+
 # ZhuaTech AI Red Team
 
 > A source-available enterprise project by [ZhuaTech](https://www.zhuatech.cn/) for manufacturing planning, execution, quality, and traceability.
