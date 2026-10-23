@@ -1,0 +1,59 @@
+[
+  {
+    "patch": {},
+    "expected": {
+      "decision": "HOLD",
+      "criticalNotClosed": "#1"
+    },
+    "error": false
+  },
+  {
+    "patch": {
+      "criticalRetested": "3"
+    },
+    "expected": {
+      "decision": "REVIEW"
+    },
+    "error": false
+  },
+  {
+    "patch": {
+      "criticalRetested": "3",
+      "normalClosed": "10"
+    },
+    "expected": {
+      "decision": "PASS"
+    },
+    "error": false
+  },
+  {
+    "patch": {
+      "normalClosed": "7"
+    },
+    "expected": {
+      "decision": "HOLD"
+    },
+    "error": false
+  },
+  {
+    "patch": {
+      "criticalRetested": "4"
+    },
+    "expected": {},
+    "error": true
+  },
+  {
+    "patch": {
+      "criticalMitigated": "1"
+    },
+    "expected": {},
+    "error": true
+  },
+  {
+    "patch": {
+      "normalClosed": "11"
+    },
+    "expected": {},
+    "error": true
+  }
+]
