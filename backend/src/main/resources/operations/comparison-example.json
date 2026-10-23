@@ -1,0 +1,6 @@
+{
+  "patch": {
+    "criticalRetested": "3"
+  },
+  "description": "严重复测通过数改为3"
+}
